@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "Statistic.h"
+
+
+void printStat(long clock, long long tmu, long long trp, long long tmr, long long tpi, int pageFrameNum) { 
+    printf("AMU: %f\n", (float)tmu / (clock * pageFrameNum));     
+    printf("ARP: %f\n", (float)trp / clock); 
+    printf("TMR: %lld\n", tmr);
+    printf("TPI: %lld\n", tpi);
+}

@@ -1,0 +1,12 @@
+////////////////////////////////////////////
+//Main file: 537pfsim-fifo.c, 537pfsim-lru.c, 537pfsim-clock.c
+//This file: README
+//Semester: CS537 Fall 2020
+//
+//Author: Xunwei Ye, Chenjie Zhu
+//Email: xye53@wisc.edu, czhu226@wisc.edu
+////////////////////////////////////////////
+
+This program simulates the interactions between user, OS, memory and disk.
+It uses hash table to implement page table.
+It uses doubly circular linked list to implement memory and replacement policies.

@@ -1,0 +1,13 @@
+//////////////////////////////////////////////////////////
+//Main file: main.c
+//This file: README
+//Semester: CS 537 Fall 2020
+//
+//Author: Xunwei Ye, Chenjie Zhu
+//NetID: xye53, czhu226
+//CompSci Login: xunwei, chenjie
+//Email: xye53@wisc.edu, czhu226@wisc.edu
+//////////////////////////////////////////////////////////
+
+This program reads a text file line by line. 
+When the reader is done reading, a null pointer is enqueued, which causes the number of enqueue/dequeue one larger than the amount of strings processed.

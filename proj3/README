@@ -1,0 +1,18 @@
+//////////////////////////////////////////////////////////
+//Main file: 537make.c
+//This file: README
+//Semester: CS 537 Fall 2020
+//
+//Author: Xunwei Ye, Chenjie Zhu
+//NetID: xye53, czhu226
+//CompSci Login: xunwei, chenjie
+//Email: xye53@wisc.edu, czhu226@wisc.edu
+//////////////////////////////////////////////////////////
+
+This program is a simple version of the make command. 
+It will read a a "makefile" and following the specifications in the makefile as to which commands need to be executed.
+
+This program realizes extra credit #1: -f option
+Usage: 537make -f <filename> <target> OR 537make <target> -f <filename>
+
+This program doesn't realize extra credit #2
