@@ -1,2 +1,2 @@
 # CS537
-Programming Assignments for an Operating Systems Class. 
+Programming Assignments for an Operating Systems Class
