@@ -1,0 +1,3 @@
+This program can show the state, stime, utime, size and cmdline of certain processes.
+It supports inputing multiple processes at one time.
+It does not support -m option.
